@@ -1,0 +1,56 @@
+#NAME: NSUBUGA SHELLAH NAME
+#REGISTRATION NUMBER: 2022/DCSE/035/SS
+#WEB DEVELOPMENT TEST 1 SEMISTER 1
+
+
+#question 2
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Company page</title>
+</head>
+<body>
+
+<nav>
+<ol>
+<li><em><a href="#logo">Company's logo</a></em></li>
+<li><em><a href="#employees">List of employees</a></em></li>
+</ol>
+</nav>
+
+<p>Welcome! Here you can find the following things:</p>
+
+<h1>Company's logo</h1>
+<p>Company uses the following logos:</p>
+
+<ul>
+
+<li>Old logo: <img src="https://bit.ly/3xlFQ7l" alt=""></li>
+<li>New logo: <img src="https://bit.ly/3A4wNcD" alt=""></li>
+
+</ul>
+
+<h1>List of employees</h1>
+<table>
+
+<tr>
+<th>First name</th>
+<th>Last name</th>
+</tr>
+
+<tr>
+<td>Mary</td>
+<td>Williams</td>
+</tr>
+
+<tr>
+<td>James</td>
+<td>Smith</td>
+</tr>
+
+</table>
+
+
+</body>
+</html>

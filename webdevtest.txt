@@ -1,0 +1,37 @@
+#NAME: NSUBUGA SHELLAH NAME
+#REGISTRATION NUMBER: 2022/DCSE/035/SS
+#WEB DEVELOPMENT TEST 1 SEMISTER 1
+
+#question 1
+#a
+Elements are the building blocks of an HTML document.
+Forexample; the body element <body>, the paragraph element<p>
+
+#b
+Attributes are properties that describe how the elements on the document should appear
+on a page.
+forexample; the font-size attribute which describes how the size of the font should appear.
+
+#c
+Selectors are properties that enable to describe what element to style in the cascading style sheet.
+Forexample; a class is a selector because it describes what element to style.
+<p class="p1">my name is shellah</p>, the class value "p1" will be used in to style the paragraph in css,
+that is to say;
+.p1{font-size="6px"}.
+
+#d
+Semantic elements are elements that have meaning to both the browser and the user.
+Forexample; the title element, <title>DOCUMENT</title>. The browser understands that the DOCUMENT should be displayed
+as the title for the page.
+
+#e
+Web accessibility refers to the developed technologies that are used to build websites that can be
+accessed by all web users with disabilities and those that are abled.
+Forexample; autocomplete attribute that helps the browser to predict the required input for the user.
+It also helps users with disabilities to access the required input, that is to say; the blind who depend on text-audio 
+recognitions.
+
+#f
+Web server refers to the program that renders services to clients through web browsers.
+Forexample;google server that renders services to clients through google chrome.
+

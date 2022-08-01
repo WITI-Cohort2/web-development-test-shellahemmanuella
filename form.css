@@ -1,0 +1,14 @@
+#fot{
+    background-color: rgb(144, 153, 156);
+    color:rgb(14, 11, 11);
+    border: 1px solid black;
+    width: 400px;
+    padding: 2px;
+}
+
+#head{
+    background-color: bisque;
+    margin-top: 0%;
+    padding: 5px;
+}
+
